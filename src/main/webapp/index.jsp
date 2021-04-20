@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home Page - Spring MVC Project</title>
+<title>Home Page</title>
 </head>
 <body>
 
